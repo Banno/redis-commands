@@ -2038,5 +2038,35 @@
     "keyStart": 0,
     "keyStop": 0,
     "step": 0
+  },
+  "cms.query": {
+    "arity": 3,
+    "flags": [
+      "readonly",
+      "denyoom"
+    ],
+    "keyStart": 1,
+    "keyStop": 1,
+    "step": 1
+  },
+  "cms.initbyprob": {
+    "arity": 4,
+    "flags": [
+      "write",
+      "denyoom"
+    ],
+    "keyStart": 1,
+    "keyStop": 1,
+    "step": 1
+  },
+  "cms.incrby": {
+    "arity": 4,
+    "flags": [
+      "write",
+      "denyoom"
+    ],
+    "keyStart": 1,
+    "keyStop": 1,
+    "step": 1
   }
 }
