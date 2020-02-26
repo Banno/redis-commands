@@ -2059,6 +2059,16 @@
     "keyStop": 1,
     "step": 1
   },
+  "cms.initbydim": {
+    "arity": 4,
+    "flags": [
+      "write",
+      "denyoom"
+    ],
+    "keyStart": 1,
+    "keyStop": 1,
+    "step": 1
+  },
   "cms.incrby": {
     "arity": 4,
     "flags": [
