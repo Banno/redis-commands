@@ -1,5 +1,5 @@
 {
-  "name": "redis-commands",
+  "name": "@banno/redis-commands",
   "version": "1.7.0",
   "description": "Redis commands",
   "main": "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeRedis/redis-commands.git"
+    "url": "https://github.com/Banno/redis-commands.git"
   },
   "keywords": [
     "redis",
@@ -24,9 +24,9 @@
   "author": "luin <i@zihua.li> (http://zihua.li)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NodeRedis/redis-commands/issues"
+    "url": "https://github.com/Banno/redis-commands/issues"
   },
-  "homepage": "https://github.com/NodeRedis/redis-commands",
+  "homepage": "https://github.com/Banno/redis-commands",
   "devDependencies": {
     "chai": "^4.0.1",
     "codeclimate-test-reporter": "^0.5.1",
